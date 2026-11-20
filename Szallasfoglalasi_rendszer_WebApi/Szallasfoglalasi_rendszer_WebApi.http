@@ -1,0 +1,6 @@
+@Szallasfoglalasi_rendszer_WebApi_HostAddress = http://localhost:5111
+
+GET {{Szallasfoglalasi_rendszer_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
